@@ -40,7 +40,7 @@ IMPORTANT: the exchange file must be in CSV format and you must DELETE the first
 
 EXCHANGES
 ---------
-That BETA version only is available BINANCE exchange. BITSTAMP works bad with problems.
+That Bversion only is available BINANCE exchange. BITSTAMP works bad with problems.
 
 BINANCE CSV FORMAT
 ------------------
