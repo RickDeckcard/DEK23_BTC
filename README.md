@@ -11,7 +11,9 @@ The script is in spanish.
 INSTALLATION
 ------------
 You must install Python3 version 3.9.1+
+
 You must install Pandas library:
+
       python -m pip install --upgrade pip
       pip3 install pandas
       
@@ -22,16 +24,17 @@ If you put in terminal Linux the next order then will be appear the HELP informa
       python3 DEK23_BTC_declaration.py -h
 
 Usage: python3 DEK23_BTC_declaration.py [OPTION] [FILE]
-Concatenate FILE to standard output.
+
+      Concatenate FILE to standard output.
 
 
--h, --help              This help menu
--e, --exchange          Select the crypto exchange
-                                binance
-                                bitstamp
--o, --output            Name of file to save information
-Examples:
-        python3 DEK23_BTC_declaration.py -e binance file.csv -o output_file.txt
+      -h, --help              This help menu
+      -e, --exchange          Select the crypto exchange
+                                      binance
+                                      bitstamp
+      -o, --output            Name of file to save information
+      Examples:
+              python3 DEK23_BTC_declaration.py -e binance file.csv -o output_file.txt
         
 IMPORTANT: the exchange file must be in CSV format and you must DELETE the first empty file.
 
@@ -52,7 +55,9 @@ The scripts only support:
 ABOUT FILES
 -----------
 DEK_23_declaration.py ---> main script.
+
 checker.py --> check the lines of CSV and tell you if pandas has read all the lines.
+
 check.log --> log created by checker.py
 
 EXAMPLE
