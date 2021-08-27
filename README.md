@@ -8,6 +8,10 @@ DEK23_BTC is a python3 script that work like a CLI in Kali Linux (perhaps it wor
 That´s script is a ALFA version and need to get better, use it with caution.
 The script is in spanish.
 
+COLLABORATORS
+-------------
+If you are interesting in become collaborator in this project then contact to me.
+
 INSTALLATION
 ------------
 You must install Python3 version 3.9.1+
